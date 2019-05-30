@@ -1,5 +1,2 @@
 # DarkFB
-DarkFB Tanpa Lisensi v1.6
-
-INSTALL
-$ pkg install git -y
+DarkFB Tanpa Lisensi Versi 1.6
